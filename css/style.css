@@ -1,0 +1,22 @@
+header
+{
+    display: flex;
+    justify-content: space-around;
+}
+main
+{
+    justify-content: center;
+}
+.categories-title
+{
+    text-align: center;
+}
+.subcategories>ul>li
+{
+    list-style: none;
+}
+.subc1
+{
+    display: flex;
+    justify-content: space-evenly;
+}
