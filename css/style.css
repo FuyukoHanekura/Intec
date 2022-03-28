@@ -3,6 +3,11 @@ header
     display: flex;
     justify-content: space-around;
 }
+.brandlogo
+{
+ height: 4rem;
+
+}
 main
 {
     justify-content: center;
