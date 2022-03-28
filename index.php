@@ -21,7 +21,7 @@
         </div>
         <div>
             <a href="#">Account</a>
-            <a href="#">Panier</a>
+            <a href="#">Carts</a>
         </div>
     </header>
     <main>
@@ -36,13 +36,13 @@
                         <li>
                             <div class="items">
                                 <img src="assets/img/#.png" alt="">
-                                <a href="#" class="title"></a>
+                                <a href="#" class="title">Laptops</a>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Laptop</li>
+                                    <li>MacBook</li>
+                                    <li>Bag, Backpack, Case</li>
+                                    <li>2.5" Hard Drive</li>
+                                    <li>Laptop accessories</li>
                                 </ul>
                             </div>
                         </li>
