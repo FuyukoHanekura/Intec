@@ -11,7 +11,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="/assets/img/logo.png" alt="Logo">
+            <img class="brandlogo" src="assets/img/logo.png" alt="Logo">
         </div>
         <div class="searchbar">
             <form action="">
