@@ -2,15 +2,26 @@ header
 {
     display: flex;
     justify-content: space-around;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 .brandlogo
 {
  height: 4rem;
 
 }
+body
+{
+    margin:0px;
+}
 main
 {
     justify-content: center;
+}
+.banner_img
+{
+    background-image: url("assets/img/Wallpaper.jpg");
+    background-size: cover;
 }
 .categories-title
 {
