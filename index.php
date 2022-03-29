@@ -21,7 +21,7 @@
         </div>
         <div>
             <a href="#">Account</a>
-            <a href="#">Panier</a>
+            <a href="#">Carts</a>
         </div>
     </header>
     <main>
@@ -36,52 +36,52 @@
                         <li>
                             <div class="items">
                                 <img src="assets/img/#.png" alt="">
-                                <a href="#" class="title"></a>
+                                <a href="#" class="title">Laptops</a>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Laptop</li>
+                                    <li>MacBook</li>
+                                    <li>Bag, Backpack, Case</li>
+                                    <li>2.5" Hard Drive</li>
+                                    <li>Laptop accessories</li>
                                 </ul>
                             </div>
                         </li>
                         <li>
                             <div class="items">
                                 <img src="" alt="">
-                                <a href="#" class="title"></a>
+                                <a href="#" class="title">Components</a>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Mother Board</li>
+                                    <li>Graphics cards</li>
+                                    <li>Processor</li>
+                                    <li>Storage</li>
+                                    <li>Powers Units</li>
                                 </ul>
                             </div>
                         </li>
                         <li>
                             <div class="items">
                                 <img src="" alt="">
-                                <a href="#" class="title"></a>
+                                <a href="#" class="title">Desktop Computers</a>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>PC</li>
+                                    <li>Mac Computer</li>
+                                    <li>NAS Server</li>
+                                    <li>Barebone PC</li>
+                                    <li>Server</li>
                                 </ul>
                             </div>
                         </li>
                         <li>
                             <div class="items">
                                 <img src="" alt="">
-                                <a href="#" class="title"></a>
+                                <a href="#" class="title">PC Peripherals</a>
                                 <ul>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li>Keyboard</li>
+                                    <li>Mice</li>
+                                    <li>Monitor</li>
+                                    <li>External storage</li>
+                                    <li>Printer</li>
                                 </ul>
                             </div>
                         </li>
