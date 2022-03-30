@@ -5,31 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- CSS -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
+    <!-- Fonts -->
     <link rel="stylesheet" href="css/style.css">
-    <title>Document</title>
+    <link rel="shortcut icon" href="/assets/img/Intec_logo.jpg" type="image/x-icon">
+    <title>Intec - Exchange Hardware</title>
 </head>
 <body>
-    <header>
-        <div class="logo">
-            <img class="brandlogo" src="assets/img/logo.png" alt="Logo">
-        </div>
-        <div class="searchbar">
-            <form action="">
-                <input type="search" name="" id="">
-                <input type="submit" value="">
-            </form>
-        </div>
-        <div>
-            <a href="#">Account</a>
-            <a href="#">Carts</a>
-        </div>
-    </header>
+    <?php 
+        include ("inc/header.inc.php");
+    ?>
     <main>
         <div class="banner">
-            <img src="assets/img/#.png" alt="Banner">
+            
         </div>
         <div class="wrapper">
-            <div class="computers">
+            <div class="categories">
                 <h2 class="categories-title">Computers</h2>
                 <div class="subcategories">
                     <ul class="subc1">
@@ -88,10 +79,75 @@
                     </ul>
                 </div>
             </div>
+            <div class="categories">
+                <h2 class="categories-title">Other Categories</h2>
+                <div class="subcategories">
+                    <ul class="subc1">
+                        <li>
+                            <div class="items">
+                                <img src="assets/img/#.png" alt="">
+                                <a href="#" class="title">Mobiles</a>
+                                <ul>
+                                    <li>Smarthphones</li>
+                                    <li>Mobiles Phones</li>
+                                    <li>Phones cases</li>
+                                    <li>Phones charger</li>
+                                    <li>Memory Card</li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="items">
+                                <img src="" alt="">
+                                <a href="#" class="title">Office</a>
+                                <ul>
+                                    <li>Printer cartridge</li>
+                                    <li>Printer paper</li>
+                                    <li>Calculator</li>
+                                    <li>Paper Shredder</li>
+                                    <li>Binding machine</li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="items">
+                                <img src="" alt="">
+                                <a href="#" class="title">Camera</a>
+                                <ul>
+                                    <li>Compact Camera</li>
+                                    <li>Memory card</li>
+                                    <li>Camera Tripod</li>
+                                    <li>Camera lens</li>
+                                    <li>Camera Bag</li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="items">
+                                <img src="" alt="">
+                                <a href="#" class="title">Furniturs</a>
+                                <ul>
+                                    <li>Office chair</li>
+                                    <li>Desks</li>
+                                    <li>Air treatments</li>
+                                    <li>Desk lamp</li>
+                                    <li>Office furniture</li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </main>
-    <footer>
-
+    <footer class="">
+        <span class="text-muted">Tout droits réservés </span>
+        <div class="link">
+            <p class="section" >About us</p>
+            <p class="section" >FAQ</p>
+            <p class="section" >Legal information</p>
+            <p class="section" >Privacy policy</p>
+        </div>
     </footer>    
 </body>
 </html>
